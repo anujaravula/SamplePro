@@ -8,4 +8,7 @@ Feature: Gmail Login
         When I click on element having class "radius"
         Then I should get logged-in
         Then I close browser
+        Then I am very Happy
+        When You are too happy
+        And both are Happy
         
